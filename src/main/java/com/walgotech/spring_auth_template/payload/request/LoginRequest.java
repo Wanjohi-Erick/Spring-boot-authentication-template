@@ -1,4 +1,4 @@
-package com.walgotech.churchspringapp.payload.request;
+package com.walgotech.spring_auth_template.payload.request;
 
 import javax.validation.constraints.Email;
 import javax.validation.constraints.NotBlank;

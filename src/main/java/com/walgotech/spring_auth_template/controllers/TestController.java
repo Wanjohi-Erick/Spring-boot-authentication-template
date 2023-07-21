@@ -1,4 +1,4 @@
-package com.walgotech.churchspringapp.controllers;
+package com.walgotech.spring_auth_template.controllers;
 
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.CrossOrigin;

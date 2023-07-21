@@ -1,8 +1,8 @@
-package com.walgotech.churchspringapp.security;
+package com.walgotech.spring_auth_template.security;
 
-import com.walgotech.churchspringapp.security.jwt.AuthEntryPointJwt;
-import com.walgotech.churchspringapp.security.jwt.AuthTokenFilter;
-import com.walgotech.churchspringapp.security.services.UserDetailsServiceImpl;
+import com.walgotech.spring_auth_template.security.jwt.AuthEntryPointJwt;
+import com.walgotech.spring_auth_template.security.jwt.AuthTokenFilter;
+import com.walgotech.spring_auth_template.security.services.UserDetailsServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

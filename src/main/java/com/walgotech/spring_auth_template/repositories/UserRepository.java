@@ -1,6 +1,6 @@
-package com.walgotech.churchspringapp.repositories;
+package com.walgotech.spring_auth_template.repositories;
 
-import com.walgotech.churchspringapp.models.User;
+import com.walgotech.spring_auth_template.models.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

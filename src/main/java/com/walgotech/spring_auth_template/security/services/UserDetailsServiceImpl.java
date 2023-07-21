@@ -1,7 +1,7 @@
-package com.walgotech.churchspringapp.security.services;
+package com.walgotech.spring_auth_template.security.services;
 
-import com.walgotech.churchspringapp.models.User;
-import com.walgotech.churchspringapp.repositories.UserRepository;
+import com.walgotech.spring_auth_template.models.User;
+import com.walgotech.spring_auth_template.repositories.UserRepository;
 import jakarta.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;

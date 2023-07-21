@@ -1,7 +1,7 @@
-package com.walgotech.churchspringapp.repositories;
+package com.walgotech.spring_auth_template.repositories;
 
-import com.walgotech.churchspringapp.models.ERole;
-import com.walgotech.churchspringapp.models.Role;
+import com.walgotech.spring_auth_template.models.ERole;
+import com.walgotech.spring_auth_template.models.Role;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

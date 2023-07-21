@@ -1,4 +1,4 @@
-package com.walgotech.churchspringapp.models;
+package com.walgotech.spring_auth_template.models;
 
 public enum ERole {
     ROLE_USER,

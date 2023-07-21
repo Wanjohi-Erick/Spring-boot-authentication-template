@@ -1,14 +1,9 @@
-package com.walgotech.churchspringapp.payload.request;
-
-import com.walgotech.churchspringapp.models.Role;
+package com.walgotech.spring_auth_template.payload.request;
 
 import javax.validation.constraints.Email;
 import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.Size;
 
-import javax.validation.constraints.Email;
-import javax.validation.constraints.NotBlank;
-import javax.validation.constraints.Size;
 import java.util.Set;
 
 public class SignupRequest {

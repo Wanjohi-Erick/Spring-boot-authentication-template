@@ -1,4 +1,4 @@
-package com.walgotech.churchspringapp.models;
+package com.walgotech.spring_auth_template.models;
 
 import jakarta.persistence.*;
 

@@ -1,6 +1,6 @@
-package com.walgotech.churchspringapp.security.jwt;
+package com.walgotech.spring_auth_template.security.jwt;
 
-import com.walgotech.churchspringapp.security.services.UserDetailsImpl;
+import com.walgotech.spring_auth_template.security.services.UserDetailsImpl;
 import java.security.Key;
 import java.util.Date;
 

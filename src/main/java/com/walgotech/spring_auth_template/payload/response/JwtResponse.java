@@ -1,4 +1,4 @@
-package com.walgotech.churchspringapp.payload.response;
+package com.walgotech.spring_auth_template.payload.response;
 
 import java.util.List;
 

@@ -1,6 +1,6 @@
-package com.walgotech.churchspringapp.security.jwt;
+package com.walgotech.spring_auth_template.security.jwt;
 
-import com.walgotech.churchspringapp.security.services.UserDetailsServiceImpl;
+import com.walgotech.spring_auth_template.security.services.UserDetailsServiceImpl;
 import java.io.IOException;
 
 import jakarta.servlet.FilterChain;
