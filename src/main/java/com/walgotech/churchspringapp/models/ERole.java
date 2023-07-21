@@ -1,6 +1,6 @@
 package com.walgotech.churchspringapp.models;
 
-public enum Erole {
+public enum ERole {
     ROLE_USER,
     ROLE_MODERATOR,
     ROLE_ADMIN
